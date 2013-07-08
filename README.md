@@ -1,8 +1,10 @@
 # DOMinate
-[![Build Status](https://travis-ci.org/ForbesLindesay/DOMinate-Server.png)](https://travis-ci.org/ForbesLindesay/DOMinate-Server)
-[![Dependency Status](https://gemnasium.com/ForbesLindesay/DOMinate.png)](https://gemnasium.com/ForbesLindesay/DOMinate)
 
   Generate html from a simple array based JavaScript representation
+
+[![Build Status](https://travis-ci.org/ForbesLindesay/DOMinate-Server.png)](https://travis-ci.org/ForbesLindesay/DOMinate-Server)
+[![Dependency Status](https://gemnasium.com/ForbesLindesay/DOMinate.png)](https://gemnasium.com/ForbesLindesay/DOMinate)
+[![NPM version](https://badge.fury.io/js/dominate.png)](http://badge.fury.io/js/dominate)
 
 ## Installation
 
