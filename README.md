@@ -2,9 +2,9 @@
 
   Generate html from a simple array based JavaScript representation
 
-[![Build Status](https://travis-ci.org/ForbesLindesay/DOMinate-Server.png)](https://travis-ci.org/ForbesLindesay/DOMinate-Server)
-[![Dependency Status](https://gemnasium.com/ForbesLindesay/DOMinate.png)](https://gemnasium.com/ForbesLindesay/DOMinate)
-[![NPM version](https://badge.fury.io/js/dominate.png)](http://badge.fury.io/js/dominate)
+[![Build Status](https://img.shields.io/travis/ForbesLindesay/DOMinate-Server/master.svg)](https://travis-ci.org/ForbesLindesay/DOMinate-Server)
+[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/DOMinate.svg)](https://gemnasium.com/ForbesLindesay/DOMinate)
+[![NPM version](https://img.shields.io/npm/v/dominate.svg)](http://badge.fury.io/js/dominate)
 
 ## Installation
 
