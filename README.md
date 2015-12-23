@@ -3,7 +3,7 @@
   Generate html from a simple array based JavaScript representation
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/DOMinate-Server/master.svg)](https://travis-ci.org/ForbesLindesay/DOMinate-Server)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/DOMinate.svg)](https://gemnasium.com/ForbesLindesay/DOMinate)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/DOMinate.svg)](https://david-dm.org/ForbesLindesay/DOMinate)
 [![NPM version](https://img.shields.io/npm/v/dominate.svg)](http://badge.fury.io/js/dominate)
 
 ## Installation
