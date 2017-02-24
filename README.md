@@ -1,5 +1,7 @@
 # DOMinate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/DOMinate.svg)](https://greenkeeper.io/)
+
   Generate html from a simple array based JavaScript representation
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/DOMinate-Server/master.svg)](https://travis-ci.org/ForbesLindesay/DOMinate-Server)
